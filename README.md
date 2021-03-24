@@ -1,2 +1,2 @@
 # arduino
-projects whit arduino
+projects with arduino
